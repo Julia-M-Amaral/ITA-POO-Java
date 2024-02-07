@@ -11,17 +11,14 @@ public class Gatos {
         totalGatos++;
     }
 
-    private void mostrarTotalGatos(){
-        System.out.println(totalGatos);
-    }
-
 
     public static void main(String[] args) {
         Gatos frajola = new Gatos();
         Gatos tigrado = new Gatos();
 
-        frajola.mostrarTotalGatos();
-        tigrado.mostrarTotalGatos();
+        /*e por ser estático eu nao preciso de uma instancia pra acessar, eu posso chamar ela diretamente da classe*/
+        int totalGatos = Gatos.totalGatos;
+        System.out.println(totalGatos);
 
     }
 
