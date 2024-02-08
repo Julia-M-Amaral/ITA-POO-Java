@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6ef166-404a-4a80-9b29-38d9b9cc6f58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Semana1/MetodosEAtributosEstaticos/AtrEstXInst/Somador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Somador">
+  <component name="RunManager" selected="Application.Semana1.MetodosEAtributosEstaticos.Exemplos.Somador">
     <configuration name="FuncaoEstaticaMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Semana1.MetodosEAtributosEstaticos.Exemplos.FuncaoEstaticaMath" />
       <module name="Curso" />
@@ -70,6 +69,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Semana1.MetodosEAtributosEstaticos.Exemplos.Somador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana1.MetodosEAtributosEstaticos.Exemplos.Somador" />
+      <module name="Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semana1.MetodosEAtributosEstaticos.Exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Somador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Semana1.MetodosEAtributosEstaticos.AtrEstXInst.Somador" />
       <module name="Curso" />
@@ -85,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Semana1.MetodosEAtributosEstaticos.Exemplos.Somador" />
         <item itemvalue="Application.Somador" />
         <item itemvalue="Application.FuncaoEstaticaMath" />
         <item itemvalue="Application.Gatos" />
@@ -93,6 +106,13 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b6ef166-404a-4a80-9b29-38d9b9cc6f58" name="Changes" comment="" />
+      <created>1707390228819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707390228819</updated>
+    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
