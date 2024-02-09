@@ -1,4 +1,4 @@
-package Semana1.MetodosEAtributosEstaticos.Exemplos;
+package Semana2.MetodosEAtributosEstaticos.Exemplos;
 
 /* Esse exemplo é sobre atributo estático.
     A classe gato possui um atributo que é uma informação pertinente a classe GATO, não de suas instâncias, os gatos.

@@ -1,4 +1,4 @@
-package Semana1.MetodosEAtributosEstaticos.Exemplos;
+package Semana2.MetodosEAtributosEstaticos.Exemplos;
 
 /*import p usar diretamente os métodos e constantes da classe Math sem precisar prefixá-los com Math.*/
 import static java.lang.Math.*;

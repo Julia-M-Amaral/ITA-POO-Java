@@ -1,6 +1,7 @@
-package Semana1.MetodosEAtributosEstaticos.Exemplos;
+package Semana2.MetodosEAtributosEstaticos.AtrEstXInst;
 
 public class Somador {
+
     String nome;
     int valorInstancia = 0;
     static int valorEstatico = 0;
@@ -24,7 +25,7 @@ public class Somador {
         Somador s3 = new Somador();
         s3.nome = "Somador 3";
 
-        for(int i = 0; i < 1; i++){
+        for(int i = 0; i < 3; i++){
             s1.somar();
             s2.somar();
             s3.somar();
@@ -35,4 +36,6 @@ public class Somador {
         s3.imprimir();
 
     }
+
+
 }

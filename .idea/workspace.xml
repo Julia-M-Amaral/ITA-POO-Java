@@ -44,11 +44,11 @@
 }</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="FuncaoEstaticaMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana1.MetodosEAtributosEstaticos.Exemplos.FuncaoEstaticaMath" />
+      <option name="MAIN_CLASS_NAME" value="Semana2.MetodosEAtributosEstaticos.Exemplos.FuncaoEstaticaMath" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana1.MetodosEAtributosEstaticos.Exemplos.*" />
+          <option name="PATTERN" value="Semana2.MetodosEAtributosEstaticos.Exemplos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,11 +57,11 @@
       </method>
     </configuration>
     <configuration name="Gatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana1.MetodosEAtributosEstaticos.Exemplos.Gatos" />
+      <option name="MAIN_CLASS_NAME" value="Semana2.MetodosEAtributosEstaticos.Exemplos.Gatos" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana1.MetodosEAtributosEstaticos.Exemplos.*" />
+          <option name="PATTERN" value="Semana2.MetodosEAtributosEstaticos.Exemplos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana1.MetodosOrientadosAObjetos.Escola.Main" />
+      <option name="MAIN_CLASS_NAME" value="Semana2.MetodosOrientadosAObjetos.Escola.Main" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana1.MetodosOrientadosAObjetos.Escola.*" />
+          <option name="PATTERN" value="Semana2.MetodosOrientadosAObjetos.Escola.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semana1.MetodosEAtributosEstaticos.Exemplos.Somador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana1.MetodosEAtributosEstaticos.Exemplos.Somador" />
+    <configuration name="Semana2.MetodosEAtributosEstaticos.Exemplos.Somador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana2.MetodosEAtributosEstaticos.Exemplos.Somador" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana1.MetodosEAtributosEstaticos.Exemplos.*" />
+          <option name="PATTERN" value="Semana2.MetodosEAtributosEstaticos.Exemplos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="Somador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana1.MetodosEAtributosEstaticos.AtrEstXInst.Somador" />
+      <option name="MAIN_CLASS_NAME" value="Semana2.MetodosEAtributosEstaticos.AtrEstXInst.Somador" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana1.MetodosEAtributosEstaticos.AtrEstXInst.*" />
+          <option name="PATTERN" value="Semana2.MetodosEAtributosEstaticos.AtrEstXInst.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,7 +111,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Semana1.MetodosEAtributosEstaticos.Exemplos.Somador" />
+        <item itemvalue="Application.Semana2.MetodosEAtributosEstaticos.Exemplos.Somador" />
         <item itemvalue="Application.Somador" />
         <item itemvalue="Application.FuncaoEstaticaMath" />
         <item itemvalue="Application.Gatos" />

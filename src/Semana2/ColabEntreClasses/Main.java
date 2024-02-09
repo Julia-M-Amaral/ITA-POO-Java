@@ -1,4 +1,4 @@
-package Semana1.ColabEntreClasses;
+package Semana2.ColabEntreClasses;
 
 public class Main {
     public static void main(String[] args) {

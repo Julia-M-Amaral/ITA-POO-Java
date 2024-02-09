@@ -1,4 +1,4 @@
-package Semana1.ColabEntreClasses;
+package Semana2.ColabEntreClasses;
 
 public class RegistroPontos {
     private CalculadoraBonus calculadora;

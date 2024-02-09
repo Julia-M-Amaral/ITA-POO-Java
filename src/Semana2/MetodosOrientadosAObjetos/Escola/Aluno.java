@@ -1,4 +1,4 @@
-package Semana1.MetodosOrientadosAObjetos.Escola;
+package Semana2.MetodosOrientadosAObjetos.Escola;
 
 public class Aluno {
 
